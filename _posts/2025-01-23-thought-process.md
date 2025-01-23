@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thought Process Animation'
-image: /assets/images/example4.jpg
+image: /assets/images/food_01 (1)_180 (1).jpg
 tags:
   - maya
   - animation
