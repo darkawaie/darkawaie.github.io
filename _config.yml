@@ -1,10 +1,8 @@
-domain: example.com
-url: https://example.com
 baseurl: ""
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Arezoo Nikooei
+email: arezooanim@gmail.com
+author: Arezoo Nikooei
 
 lang: en
 
@@ -12,10 +10,7 @@ plugins:
   - jekyll-seo-tag
 
 color: "#13ccf9"
-# disqus:
-#   shortname: example-com
-#
+
+
 rrss:
-  email: "example@example.cl"
-  telegram: "https://t.me/"
-  discord: "https://discord.com/"
+  email: "arezooanim@gmail.com"
