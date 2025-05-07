@@ -2,31 +2,21 @@
 title: about
 layout: page
 ---
-## Modo nostra
+## About Arezoo
+I’m a 3D animator with a background in IT engineering, driven by a lifelong passion for art and storytelling. After completing my degree, I made a deliberate shift from technology to the creative world of animation.
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+My journey began with 2D character design, which soon led me to discover sculpting and 3D modeling through tools like ZBrush. This transition opened the door to the world of 3D animation, where I found my true calling.
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
+Over the past few years, I’ve worked across studios and freelance projects, contributing to a wide range of animation and cinematic productions—from stylized game characters to high-end VFX and storytelling for film and television.
 
-## Cumque ardor
+## Experience Highlights
 
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
-
-    key(gigabyteHoverClick - kilohertz, latencyPad);
-    process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
-            exploitScsiVdu), activex * raid, cdmaVfatNvram + direct);
-    if (2 != surgeMemeConstant + 4) {
-        enterprise_so_gps += -1;
-        task(19 + primary_dvd_ruby, oasis_drive);
-    } else {
-        networking_path_box = protocolAndStack(5, 1, drop_rom) + dns_tft(29, -3,
-                emulation);
-    }
-
+* Ram Studio
+3D Artist (1 year 8 months)
+Modeling, sculpting, animation, and VFX for various commercial and cinematic projects.
+* Sepinood Studio
+3D Game Animator & Rigger (8 months)
+Focused on character animation, rigging, and sculpting for game assets.
+* Woody Studio
+Freelance 3D Animator (Present)
+Working on cinematics for Legend of Sepehr and Wooden Sword. Also involved in international collaborations, including the Uzbek episodic film Mohammad Xorazmiy and MBC Arabia’s Sinbad and Fananees.
