@@ -19,3 +19,5 @@ Focused on character animation, rigging, and sculpting for game assets.
 ### Woody Studio
 Freelance 3D Animator (Present)
 Working on cinematics for Legend of Sepehr and Wooden Sword. Also involved in international collaborations, including the Uzbek episodic film Mohammad Xorazmiy and MBC Arabia’s Sinbad and Fananees.
+### Harriod Game
+Freelance 3D Animator (Present)
