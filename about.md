@@ -9,6 +9,8 @@ My journey began with 2D character design, which soon led me to discover sculpti
 
 Over the past few years, I’ve worked across studios and freelance projects, contributing to a wide range of animation and cinematic productions—from stylized game characters to high-end VFX and storytelling for film and television.
 
+Recently, I've been working as a 3D character animator at SkyFrame Studio, working on the Savior Ship movie project.
+
 ## Experience Highlights
 ### Ram Studio
 3D Artist (1 year 8 months)
@@ -21,5 +23,7 @@ Freelance 3D Animator (Present)
 Working on cinematics for Legend of Sepehr and Wooden Sword.
 ### Harriod Game
 Freelance 3D Animator (Present)
+### SkyFrame Studio
+3D character animator (Present)
 ### International
 I'm also involved in international collaborations, including the Uzbek episodic film Mohammad Xorazmiy and MBC Arabia’s Sinbad and Fananees.
